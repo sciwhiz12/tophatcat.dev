@@ -9,18 +9,18 @@
     "1.14.2-recommended": "1.0.3"
   },
   "1.16.2": {
-    "1.0.3": "https://tophat.cat/red-pandas/CHANGELOG.txt",
-    "1.0.2": "https://tophat.cat/red-pandas/CHANGELOG.txt",
-    "1.0.0": "https://tophat.cat/red-pandas/CHANGELOG.txt"
+    "1.0.3": "https://tophat.cat/red-pandas/CHANGELOG.md",
+    "1.0.2": "https://tophat.cat/red-pandas/CHANGELOG.md",
+    "1.0.0": "https://tophat.cat/red-pandas/CHANGELOG.md"
   },
   "1.15.2": {
-    "1.0.3": "https://tophat.cat/red-pandas/CHANGELOG.txt",
-    "1.0.2": "https://tophat.cat/red-pandas/CHANGELOG.txt",
-    "1.0.0": "https://tophat.cat/red-pandas/CHANGELOG.txt"
+    "1.0.3": "https://tophat.cat/red-pandas/CHANGELOG.md",
+    "1.0.2": "https://tophat.cat/red-pandas/CHANGELOG.md",
+    "1.0.0": "https://tophat.cat/red-pandas/CHANGELOG.md"
   },
   "1.14.2": {
-    "1.0.3": "https://tophat.cat/red-pandas/CHANGELOG.txt",
-    "1.0.2": "https://tophat.cat/red-pandas/CHANGELOG.txt",
-    "1.0.0": "https://tophat.cat/red-pandas/CHANGELOG.txt"
+    "1.0.3": "https://tophat.cat/red-pandas/CHANGELOG.md",
+    "1.0.2": "https://tophat.cat/red-pandas/CHANGELOG.md",
+    "1.0.0": "https://tophat.cat/red-pandas/CHANGELOG.md"
   }
 }
