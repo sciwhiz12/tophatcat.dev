@@ -1,0 +1,20 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/spooky-biomes",
+  "promos": {
+    "1.12.2-latest": "1.2.1",
+    "1.12.2-recommended": "1.2.1",
+    "1.11.2-latest": "1.2.1",
+    "1.11.2-recommended": "1.2.1"
+  },
+  "1.12.2": {
+    "1.2.1": "https://tophat.cat/spooky-biomes/CHANGELOG.md",
+    "1.2.0": "https://tophat.cat/spooky-biomes/CHANGELOG.md",
+    "1.1.1": "https://tophat.cat/spooky-biomes/CHANGELOG.md",
+    "1.1.0": "https://tophat.cat/spooky-biomes/CHANGELOG.md",
+    "1.0.1": "https://tophat.cat/spooky-biomes/CHANGELOG.md",
+    "1.0.0": "https://tophat.cat/spooky-biomes/CHANGELOG.md"
+  },
+  "1.11.2": {
+    "1.2.1": "https://tophat.cat/spooky-biomes/CHANGELOG.md"
+  }
+}
