@@ -1,16 +1,21 @@
-#imgcontainer {
+#imgcontainer img {
+    max-width: calc(min(100vh, 100vw) - 4em);
+}
+
+body {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 100%;
+    background-color: #191919;
+    color: #eee;
+    font-family: sans-serif;
     text-align: center;
-    margin: 0 0;
-    max-height: 200px;
-    align-items: center;
-height: calc(100vh - 50px);
+    height: 100vh;
+    margin: 0;
 }
-body {
-background-color: #4169e1;
-color: black;
+
+small {
+    border-bottom: solid 2px #4169e1;
+    border-radius: 3px;
 }
