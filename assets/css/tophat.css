@@ -6,7 +6,7 @@
     width: 100%;
     text-align: center;
     margin: 0 0;
-    max-height: 500px;
+    max-height: 200px;
     align-items: center;
 height: calc(100vh - 50px);
 }
